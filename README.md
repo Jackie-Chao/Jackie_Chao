@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChiuKaKei
-- 👀 I’m interested in blues & jazz
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on competition
+- 👀 I’m interested in Blues & Jazz
+- 🌱 I’m currently learning Machine Learning & SLAM
 - 📫 You can reach me on WeChat zjq1209650156
 
 <!---
