@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaKeiZhao
+- 👋 Hi, I’m @Jackie_Chao
 - 📫 I’m currently learning Machine Learning & SLAM
 - 🌱 You can reach me on WeChat zjq13913733752
 
